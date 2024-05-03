@@ -63,6 +63,5 @@ contract OFT is OFTCore, ERC20 {
         return _amountToCreditLD;
     }
 }
-/**
-* Learning to build on blockchain alongside my studies
-*/
+ //Learning to build on blockchain alongside my studies
+
